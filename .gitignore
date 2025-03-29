@@ -1,0 +1,32 @@
+# 🔒 Don't commit your secrets!
+.env
+
+# 🐍 Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# 🗂 IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# 📦 Virtual environments
+env/
+venv/
+.venv/
+
+# 🎥 Video/mock test files
+mock_SentryClips/
+*.mp4
+
+# 📄 Logs
+*.log
+
+# 🚀 AWS config (optional, if you ever use AWS CLI locally)
+~/.aws/
+
+# 🍎 macOS system files
+.DS_Store
